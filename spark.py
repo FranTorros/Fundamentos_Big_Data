@@ -1,1 +1,0 @@
-print('Grado Ciencia de Datos')
